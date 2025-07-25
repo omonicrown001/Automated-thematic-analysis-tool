@@ -63,13 +63,13 @@ automated-thematic-analysis-tool/
 └── README.md               # Project documentation
 ```
 
-##🧪 Sample Workflow
+## 🧪 Sample Workflow
 1. Upload a .txt or .csv file containing qualitative text data.
 2. The system cleans and processes the text using NLP techniques.
 3. Themes are extracted and summarized.
 4. Results can be visualized as word clouds or exported as PDF/CSV.
 
-##📧 Contact
-Developer: Adelowo Omolade Elizabeth
-Email: adelowocrown@gmail.com
-GitHub: @omonicrown001
+## 📧 Contact
+**Developer:** Adelowo Omolade Elizabeth
+**Email:** adelowocrown@gmail.com
+**GitHub:** @omonicrown001
