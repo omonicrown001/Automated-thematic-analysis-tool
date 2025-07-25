@@ -49,8 +49,9 @@ pip install -r requirements.txt
 python app.py  # or the appropriate run script
 ```
 
-## Project Strcuture
+## Project Structure
 automated-thematic-analysis-tool/
+```
 ├── static/                 # CSS, JS, images
 ├── templates/              # HTML templates
 ├── uploads/                # Uploaded text/csv files
@@ -60,6 +61,7 @@ automated-thematic-analysis-tool/
 ├── utils.py                # Helper functions
 ├── requirements.txt        # Project dependencies
 └── README.md               # Project documentation
+```
 
 ##🧪 Sample Workflow
 1. Upload a .txt or .csv file containing qualitative text data.
